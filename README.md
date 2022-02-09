@@ -6,5 +6,5 @@
 - 📚 I’m currently learning Full Stack Web Development
 - 👯 I’m looking for a software engineering role. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nyriqfaber) [Gmail](mailto:riqthedev@gmail.com)
-- 🎮When I'm not pushing keys, I'm pushing buttons on my controller. I love video games such as 2k and Call of Duty and to finish off the day you can catch me in the gym shooting jump shots.
+- 🎮 When I'm not pushing keys, I'm pushing buttons on my controller. I love video games such as 2k and Call of Duty and to finish off the day you can catch me in the gym shooting jump shots.
 
