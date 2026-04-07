@@ -96,13 +96,7 @@ I focus on building systems that:
 
 ---
 
-## ⚡ Fun Facts
 
-- 🏀 Former All-State basketball player  
-- 🧠 Strong pattern recognition mindset  
-- 🎯 Highly disciplined + growth-focused  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F75C7E&height=120&section=footer"/>
