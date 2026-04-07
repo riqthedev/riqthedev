@@ -82,7 +82,6 @@ I focus on building systems that:
 
 ## 🎯 Goals
 
-- 💰 $100K+ SWE role  
 - 🚀 Launch impactful products  
 - 🧠 Master distributed systems  
 
