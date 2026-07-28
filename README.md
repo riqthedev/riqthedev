@@ -1,103 +1,25 @@
-# 👋 Hey, I'm Nyriq
+# Nyriq Faber
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineer;Founding+Engineer;Building+Stray+%F0%9F%8E%AC;Building+Dribblr+%F0%9F%8F%80" />
-</p>
+I’m a software engineer focused on backend, full-stack, and product engineering. I enjoy taking ambiguous product problems, breaking them into clear technical decisions, and building systems people can actually use.
 
----
+## Background
 
-## 🚀 About Me
+I previously worked as an ERP developer, building internal tools and systems that supported real business operations. My work included workflow automation, third-party integrations, SQL reporting, business process improvements, and extending enterprise software based on user and operational needs.
 
-💻 Software Engineer with experience across **ERP systems, full-stack apps, and real-time systems**
+That experience taught me how to work within complex systems, understand unfamiliar domains, and translate business requirements into reliable software.
 
-🏢 ERP Developer @ Burt Process Equipment  
-🎬 Founding Engineer @ Stray  
-🏀 Creator of Dribblr  
+I primarily work with TypeScript, JavaScript, React, Next.js, Node.js, React Native, PostgreSQL, Supabase, and Vercel.
 
-I focus on building systems that:
-- Solve real problems  
-- Scale with users  
-- Actually get used  
+## What I’m Building
 
----
+**Stray**
 
-## 🧠 Tech Stack
+I’m the founding engineer building product infrastructure, analytics systems, video integrations, and audience intelligence tools that help independent filmmakers understand how their work connects with viewers.
 
-<p align="center">
+**Dribblr**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,supabase,vercel" />
+A React Native basketball app for discovering local courts, checking into active games, and building stronger local basketball communities.
 
-</p>
+## Connect
 
----
-
-## 🏗️ Featured Projects
-
-### 🎬 Stray
-> Discover what deserves to be made.
-
-- Full-stack platform (Next.js + Supabase)
-- Mux video pipeline integration
-- User taste + signal tracking system
-- Built for **early signal clarity in film**
-
----
-
-### 🏀 Dribblr
-> Find games. Track stats. Build your identity.
-
-- React Native + Expo app
-- Real-time court check-ins
-- Social + stat tracking system
-- Inspired by NBA 2K-style ecosystem
-
----
-
-### 🏢 ERP Engineering
-
-- Built Camunda workflows (JavaScript)
-- SQL reporting (Oracle)
-- ERP automation + integrations
-- Improved internal business operations
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riqthedev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riqthedev&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Current Focus
-
-- Becoming a **top-tier engineer**
-- Building scalable systems
-- Growing Stray 🚀
-- Improving system design + backend skills
-
----
-
-## 🎯 Goals
-
-- 🚀 Launch impactful products  
-- 🧠 Master distributed systems  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/riqthedev">GitHub</a> •
-  <a href="https://linkedin.com/">LinkedIn</a>
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F75C7E&height=120&section=footer"/>
-</p>
+* [LinkedIn](https://www.linkedin.com/in/nyriqfaber)
