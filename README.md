@@ -1,25 +1,24 @@
 # Nyriq Faber
 
-I’m a software engineer focused on backend, full-stack, and product engineering. I enjoy taking ambiguous product problems, breaking them into clear technical decisions, and building systems people can actually use.
+Software engineer building products, backend systems, and integrations with **TypeScript, Next.js, Node.js, and PostgreSQL**.
 
-## Background
+## Production engineering
 
-I previously worked as an ERP developer, building internal tools and systems that supported real business operations. My work included workflow automation, third-party integrations, SQL reporting, business process improvements, and extending enterprise software based on user and operational needs.
+**Stray — Founding Engineer**  
+As the team's only technical member, I own product and backend engineering: React/Next.js, Supabase/PostgreSQL, and Mux video integrations.
 
-That experience taught me how to work within complex systems, understand unfamiliar domains, and translate business requirements into reliable software.
+- Authentication, row-level security (RLS), database schemas, and migrations.
+- Video upload workflows, server-owned webhooks, and recovery paths for missed events.
+- Testing, monitoring with Sentry and PostHog, and production debugging.
 
-I primarily work with TypeScript, JavaScript, React, Next.js, Node.js, React Native, PostgreSQL, Supabase, and Vercel.
+**Burt Process Equipment — ERP Developer**  
+Built Boomi integrations connecting Shopify, Amazon, and Zoey to IFS Cloud, alongside REST API workflows, SQL reporting, and manufacturing automation. Worked with Oracle and operational systems supporting real business processes.
 
-## What I’m Building
+## Public projects
 
-**Stray**
-
-I’m the founding engineer building product infrastructure, analytics systems, video integrations, and audience intelligence tools that help independent filmmakers understand how their work connects with viewers.
-
-**Dribblr**
-
-A React Native basketball app for discovering local courts, checking into active games, and building stronger local basketball communities.
+- [TicketDrop](https://github.com/riqthedev/ticketdrop) — public TypeScript project.
+- Stray's production source is private. I can walk through its architecture, authorization decisions, webhook lifecycle, and recovery tradeoffs.
 
 ## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/nyriqfaber)
+[LinkedIn](https://www.linkedin.com/in/nyriqfaber) · [X](https://x.com/nyriqq) · [GitHub](https://github.com/riqthedev)
