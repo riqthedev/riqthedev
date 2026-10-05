@@ -16,7 +16,7 @@ Built Boomi integrations connecting Shopify, Amazon, and Zoey to IFS Cloud, alon
 
 ## Public projects
 
-- [TicketDrop](https://github.com/riqthedev/ticketdrop) — public TypeScript project.
+- [TicketDrop](https://github.com/riqthedev/ticketdrop) — TypeScript ticketing project with Node.js/Express, PostgreSQL, Redis waiting-room admission, ticket holds, and checkout idempotency tests.
 - Stray's production source is private. I can walk through its architecture, authorization decisions, webhook lifecycle, and recovery tradeoffs.
 
 ## Connect
